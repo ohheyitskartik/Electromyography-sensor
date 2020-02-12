@@ -1,4 +1,4 @@
-# Electromayography-sensor
+# Electromyography-sensor
 The following sensor design can amplify, filter &amp; rectify EMG potentials range between less than 50 μV and up to 30 mV  to a 0-3V logic level compatible with arduino's and arm processors inbuilt adc logic level. Open Readme file for more info.
 
 ![Circuit Board](https://raw.githubusercontent.com/ohheyitskartik/Electromayography-sensor/master/Images/Board-Image.PNG?token=Au2AXWJlDHDn8pkc8i91U2iUxupQtGBGks5crJ2SwA%3D%3D)
